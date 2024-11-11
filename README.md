@@ -3,13 +3,16 @@ Y - Complete
 N - Not started
 P - In progress
 
-12/11
+Resources such as udemy, w3schools and microsofts C# tutorial will be used to support my learning.
+
+
+
 Research C# and .NET framework including advantages - N
-Set up visual studio - P
+Set up visual studio - Y
 Create new project using .cs and write 'Hello World!' - N
 Learn basic syntax - N
 Understand data types - N
-Arithmetic operatos and expressions - N
+Arithmetic operators and expressions - N
 Declare and initialise varibles and understand difference with constants - N
 Research single and multidimensional arrays incl. useful methods - N
 Use variables and constants to create variables of different data types
@@ -63,21 +66,3 @@ How to use async and await keyworks to write asynchronous code - N
 Build an updated movie recommendation system - N
 
 
-
-
-
-13/11
-
-14/11
-
-15/11
-
-18/11
-
-19/11
-
-20/11
-
-21/11
-
-22/11
