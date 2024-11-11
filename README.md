@@ -73,7 +73,7 @@ Learn about delegates and events - N
 Understand how to use delegates to define and reference methods - N
 Practice using events to handle user input and other program events - N
 22/11
-Learn about generics and how to use generice types and methods to write reusable and flecible code - N
+Learn about generics and how to use generice types and methods to write reusable and flexible code - N
 Learn about LINQ - N
 How to use async and await keyworks to write asynchronous code - N
 Build an updated movie recommendation system - N
