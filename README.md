@@ -18,6 +18,7 @@ Research single and multidimensional arrays incl. useful methods - N
 Use variables and constants to create variables of different data types
 Build name badge generator (look at ReadLine() method) - N
 
+# Control Structures and Functions
 Learn conditional statments and how to use logical operators - N
 Create program that outputs different responses based on user input - N
 Learn loops in C# and how to use break and continue statements - N
@@ -29,6 +30,7 @@ Return values from functions - N
 Understand difference between void and non-void functions - N
 Create a rock, paper, scissors game - N
 
+# OOP
 Create classes - N
 Understand how to instantiate objects from classes - N
 Create and use objects to perform simple tasks - N
@@ -42,6 +44,7 @@ Learn and understand differences about interfaces and abstract classes - N
 Recreate shape calculator incorporating interfaces and/or abstract classes - N
 Recreate Scooter/inventory app from bootcamp - N
 
+# TDD, Exception Handling, and File I/O
 Research testing framework (choose best for company tech stack) - N
 Create tests for scooter/inventory app project - N
 Use TDD approach to write tests for functions before creating them (returns largest element of an array) - N
@@ -57,6 +60,8 @@ Understand how to use streams to read and write data from files and other source
 Use byte arrays to efficiently handle data - N
 Create Movie recommendation system - N
 
+
+# Advanced Topics
 Learn about delegates and events - N
 Understand how to use delegates to define and reference methods - N
 Practice using events to handle user input and other program events - N
