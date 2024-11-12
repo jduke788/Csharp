@@ -14,14 +14,14 @@ Learn basic syntax - Y
 Understand data types - Y
 Arithmetic operators and expressions - Y
 Declare and initialise varibles and understand difference with constants - Y
-Research single and multidimensional arrays incl. useful methods - N
+Research single and multidimensional arrays incl. useful methods - Y
 Use variables and constants to create variables of different data types - Y
 Build name badge generator (look at ReadLine() method) - N
 
 # Control Structures and Functions
-Learn conditional statements and how to use logical operators - N
+Learn conditional statements and how to use logical operators - Y
 Create program that outputs different responses based on user input - N
-Learn loops in C# and how to use break and continue statements - N
+Learn loops in C# and how to use break and continue statements - Y
 Create program to print all even nums between 0 and value specified by user - N
 13/11
 How to define and call functions and understand different between functions and methods - N
