@@ -12,14 +12,14 @@ Set up visual studio - Y
 Create new project using .cs and write 'Hello World!' - Y
 Learn basic syntax - Y
 Understand data types - Y
-Arithmetic operators and expressions - N
+Arithmetic operators and expressions - Y
 Declare and initialise varibles and understand difference with constants - Y
 Research single and multidimensional arrays incl. useful methods - N
 Use variables and constants to create variables of different data types - Y
 Build name badge generator (look at ReadLine() method) - N
 
 # Control Structures and Functions
-Learn conditional statments and how to use logical operators - N
+Learn conditional statements and how to use logical operators - N
 Create program that outputs different responses based on user input - N
 Learn loops in C# and how to use break and continue statements - N
 Create program to print all even nums between 0 and value specified by user - N
