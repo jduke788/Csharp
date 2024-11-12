@@ -7,15 +7,15 @@ Resources such as udemy, w3schools and microsofts C# tutorial will be used to su
 
 
 12/11
-Research C# and .NET framework including advantages - N
+Research C# and .NET framework including advantages - Y
 Set up visual studio - Y
-Create new project using .cs and write 'Hello World!' - N
-Learn basic syntax - N
-Understand data types - N
+Create new project using .cs and write 'Hello World!' - Y
+Learn basic syntax - Y
+Understand data types - Y
 Arithmetic operators and expressions - N
-Declare and initialise varibles and understand difference with constants - N
+Declare and initialise varibles and understand difference with constants - Y
 Research single and multidimensional arrays incl. useful methods - N
-Use variables and constants to create variables of different data types
+Use variables and constants to create variables of different data types - Y
 Build name badge generator (look at ReadLine() method) - N
 
 # Control Structures and Functions
