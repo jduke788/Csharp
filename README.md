@@ -24,26 +24,26 @@ Create program that outputs different responses based on user input - N
 Learn loops in C# and how to use break and continue statements - Y
 Create program to print all even nums between 0 and value specified by user - N
 13/11
-How to define and call functions and understand different between functions and methods - N
-How to pass arguments to functions and different types of parameters - N
+How to define and call functions and understand different between functions and methods - Y
+How to pass arguments to functions and different types of parameters - Y
 Use function to return a grade when a scores provided - N
-Return values from functions - N
-Understand difference between void and non-void functions - N
+Return values from functions - Y
+Understand difference between void and non-void functions - Y
 14/11
 Create a rock, paper, scissors game - N
 
 # OOP
-Create classes - N
-Understand how to instantiate objects from classes - N
-Create and use objects to perform simple tasks - N
-How to define fields, properties and polymorphism - N
-Understand difference between fields and properties - N
+Create classes - Y
+Understand how to instantiate objects from classes - Y
+Create and use objects to perform simple tasks - Y
+How to define fields, properties and polymorphism - Y
+Understand difference between fields and properties - Y
 Create a Person class with name, age and hometown fields. Class should also have a bio method that prints on persons info - N
 15/11
-Learn about inheritance and polymorphism - N
-How to create derved classes that inherit from base classes - N
+Learn about inheritance and polymorphism - Y
+How to create derived classes that inherit from base classes - Y
 Create a shape calculator that has a parent Shape class and child subclasses like Circle, Square etc. Calculate area of different shapes with a area() method - N
-Learn and understand differences about interfaces and abstract classes - N
+Learn and understand differences about interfaces and abstract classes - Y
 Recreate shape calculator incorporating interfaces and/or abstract classes - N
 18/11
 Recreate Scooter/inventory app from bootcamp - N
@@ -53,8 +53,8 @@ Research testing framework (choose best for company tech stack) - N
 Create tests for scooter/inventory app project - N
 Use TDD approach to write tests for functions before creating them (returns largest element of an array) - N
 19/11
-Learn about C# exception handling - N
-Use try-catch to handle exceptions - N
+Learn about C# exception handling - Y
+Use try-catch to handle exceptions - Y
 Understand difference between checked and unchecked exceptions - N
 Practice handling exceptions using try-catch - N
 Learn how to read and write files using the File and StreamReader/StreamWriter classes - N
