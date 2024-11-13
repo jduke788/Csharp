@@ -16,17 +16,17 @@ Arithmetic operators and expressions - Y
 Declare and initialise varibles and understand difference with constants - Y
 Research single and multidimensional arrays incl. useful methods - Y
 Use variables and constants to create variables of different data types - Y
-Build name badge generator (look at ReadLine() method) - N
+Build name badge generator (look at ReadLine() method) - P
 
 # Control Structures and Functions
 Learn conditional statements and how to use logical operators - Y
-Create program that outputs different responses based on user input - N
+Create program that outputs different responses based on user input - P
 Learn loops in C# and how to use break and continue statements - Y
-Create program to print all even nums between 0 and value specified by user - N
+Create program to print all even nums between 0 and value specified by user - P
 13/11
 How to define and call functions and understand different between functions and methods - Y
 How to pass arguments to functions and different types of parameters - Y
-Use function to return a grade when a scores provided - N
+Use function to return a grade when a scores provided - P
 Return values from functions - Y
 Understand difference between void and non-void functions - Y
 14/11
